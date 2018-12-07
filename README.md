@@ -6,6 +6,12 @@ Sample project and documentation for iOS Native Goodies plugin for Unreal Engine
 
 ### CHANGELOG
 
+## v.1.1.0
+
++ ADDED Haptic feedback
+
+---
+
 ## v.1.0.0
 
 + Initial release
